@@ -200,7 +200,7 @@ a {
 .footer .copyright > span {
   color: var(--green-color);
 }
-.footer .copyright span:nth-of-type(2) {
+.footer .copyright span:last-of-type {
   color: var(--yellow-color);
 }
 .footer .contact ul svg {
