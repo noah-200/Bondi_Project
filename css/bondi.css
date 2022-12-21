@@ -197,7 +197,7 @@ a {
 .footer {
   background: var(--dark-color);
 }
-.footer .copyright > span {
+.footer .copyright > span, .footer .copyright > a {
   color: var(--green-color);
 }
 .footer .copyright span:last-of-type {
